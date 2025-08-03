@@ -9,7 +9,7 @@
 ###############################################################################
 
 # name of this mud
-name : My LIMA MUD
+name : Showlands MUD
 
 # port number to accept users on
 external_port_1: telnet 7878
@@ -18,10 +18,10 @@ external_port_1: telnet 7878
 #mud ip : 0.0.0.0
 
 # absolute pathname of mudlib
-mudlib directory : /home/lima/git/lima/lib
+mudlib directory : /home/brett/workspace/lima/lib
 
 # debug.log and author/domain stats are stored here
-log directory : /home/lima/git/lima/lib/log
+log directory : /home/brett/workspace/lima/lib/log
 
 # the directories which are searched by #include <...>
 # for multiple dirs, separate each path with a ':'
